@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @safwan9b
+- 👋 Hi, I’m safwan
 - 👀 I’m interested in development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on react projects
